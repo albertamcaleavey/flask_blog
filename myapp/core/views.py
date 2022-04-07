@@ -1,5 +1,4 @@
 # core/views.py 
-
 from flask import render_template, request, Blueprint
 from myapp.models import BlogPost
 
